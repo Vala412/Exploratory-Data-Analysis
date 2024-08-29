@@ -23,10 +23,3 @@ This folder contains the exploratory data analysis (EDA) performed on the Haberm
 #### **Tools and Libraries**:
 - **Python Libraries**: Pandas, Seaborn, Matplotlib, NumPy.
 - **Jupyter Notebook**: For interactive data analysis and visualization.
-
-### **How to Use This Analysis:**
-This EDA can be used as a starting point for further analysis, including model building and prediction, or as a reference for understanding the characteristics of the Haberman Cancer Detection dataset.
-
----
-
-You can place this description in a `README.md` file in the folder where you've stored your EDA for the Haberman dataset. This will help anyone visiting your repository to understand the purpose and scope of your analysis.
