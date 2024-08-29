@@ -1,0 +1,1 @@
+This repository contains the exploratory data analysis (EDA) performed on the various datasets. The primary objective of this analysis is to uncover underlying patterns, relationships, and insights within the data before proceeding to more complex modeling tasks.
